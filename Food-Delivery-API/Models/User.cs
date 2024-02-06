@@ -15,7 +15,6 @@ namespace FoodDataLayer.Util
         public string? Surname { get; set; }
         public DateTime DateofBirth { get; set; }
         public UserTypeEnum? UserType { get; set; }
-        //deve essere univoco
         public string? FiscalCode { get; set; }
         public string? Email { get; set; }
         public string? Salt { get; set; }
