@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace FoodDataLayer.DTO.UserDTO
 {
-    internal class RegistrationDTO
-    {
+    public class RegistrationDTO
+    { 
         public string? Name { get; set; }
         public string? Surname { get; set; }
         public string? Email { get; set; }

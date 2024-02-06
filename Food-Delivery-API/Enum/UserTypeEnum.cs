@@ -11,7 +11,7 @@ namespace FoodDataLayer.Enum
         Admin = 0,
         Raider =1,
         User = 2,
-        ResturantCEO = 3
+        ResturantOwner = 3
 
     }
 }
